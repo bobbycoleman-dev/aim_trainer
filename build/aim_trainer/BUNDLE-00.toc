@@ -1,0 +1,3 @@
+([('aim_trainer',
+   '/Users/bcoleman/Developer/VSCode/Python/aim_trainer/dist/aim_trainer',
+   'EXECUTABLE')],)

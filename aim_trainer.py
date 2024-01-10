@@ -21,6 +21,12 @@ TOP_BAR_HEIGHT = 50
 
 LABEL_FONT = pygame.font.SysFont("comicsans", 24)
 
+pygame_icon = pygame.image.load(
+    "/Users/bcoleman/Developer/VSCode/Python/aim_trainer/target.png"
+)
+
+pygame.display.set_icon(pygame_icon)
+
 
 class Target:
     MAX_SIZE = 30
